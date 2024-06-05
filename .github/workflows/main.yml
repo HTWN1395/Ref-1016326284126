@@ -1,0 +1,25 @@
+# UI aaaa, bbbb, cccc, dddd, eeee, ffff, 
+## a, b, c, d, e, f: create division of resettlement resources resistant r3.json
+
+# json{ * import:  js.r3 *} 
+
+## CS for ghpages - - aaaa.r3
+
+## CS for ghpages - - bbbb.r3
+
+## CS for ghpages - - cccc.r3
+
+## CS for ghpages - - dddd.r3
+
+## CS for ghpages - - eeee.r3
+
+## CS for ghpages - - ffff.r3
+
+code: 'json/secret[CS_R3](code://json.xhtml)';
+
+  job: 'hidden & locked';
+
+  GUI: 'secured' ;
+  
+
+  
